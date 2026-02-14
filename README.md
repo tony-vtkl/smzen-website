@@ -28,6 +28,20 @@ As preserved from the original site:
 - Phone: 310-572-9070  
 - Email: info@smzen.org
 
+## Quality Assurance
+
+This site has undergone comprehensive QA testing covering all 28 HTML pages, navigation functionality, asset loading, and PDF downloads. See `QA_REPORT.md` for detailed test results.
+
+**QA Summary**:
+- ✅ All 28 pages tested and functional (HTTP 200)
+- ✅ All navigation links working correctly
+- ✅ All images and assets loading properly  
+- ✅ PDF downloads verified working
+- ✅ Calendar section fully navigable
+- ✅ No critical issues found
+
+**Live Site**: https://smzen-website.vercel.app
+
 ---
 
 *Website restored from original archive - February 2026*
